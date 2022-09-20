@@ -102,8 +102,3 @@ for (let i = 0; i < rawPhrase.length; i++) {
         break;
     }
 }
-
-
-console.log("rawPhrase: " + rawPhrase);
-
-console.log(phraseToCheck.charCodeAt(0));
